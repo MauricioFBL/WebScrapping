@@ -1,5 +1,9 @@
 *.csv
+
+
 /__pycache__/
 /Material WScarpp/
+/GENERADO/
+/.vscode/
 jsonUnify.py
 scala.scala

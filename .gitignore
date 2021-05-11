@@ -1,0 +1,5 @@
+*.csv
+/__pycache__/
+/Material WScarpp/
+jsonUnify.py
+scala.scala
